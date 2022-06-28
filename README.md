@@ -33,7 +33,7 @@ $ npm start
 ### Open page in browser
 
 ```bash
-$ page opens at http://localhost:3001/
+$ http://localhost:3001/
 ```
 
 ## Author
