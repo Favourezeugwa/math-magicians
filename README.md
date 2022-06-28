@@ -6,7 +6,7 @@ This is a Single Page App (SPA) that allows users to make simple calculations an
 
 ## Live Demo
 
-[link to live demo]()
+link to live demo - (coming-soon!)
 
 > Math-magicians: started of by building the core functionality, which is a calculator that contains a simple UI and is able to perform all math operations.
 
@@ -27,6 +27,7 @@ $ cd math-magicians
 ### Run project
 
 ```bash
+$ npm install
 $ npm start
 ```
 
@@ -47,6 +48,7 @@ $ http://localhost:3001/
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/Favourezeugwa/math-magicians/issues)
 
 ## Show your support
 
@@ -54,7 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspiration(Microverse leaderboard wireframe)
+- Inspiration(Microverse Math magicians Wireframe)
 - Microverse student community
 
 ## 📝 License
