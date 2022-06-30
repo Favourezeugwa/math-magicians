@@ -53,10 +53,11 @@ button {
 .btn-lightgrey:hover {
   background: #ff5c33;
   color: #fff;
+  box-shadow: 2px 2px 4px #000;
 }
 
 @media only screen and (max-width: 600px) {
   .calculator-container {
-    width: 375px;
+    width: 275px;
   }
 }
