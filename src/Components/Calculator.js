@@ -19,7 +19,7 @@ class Calculator extends React.Component {
           <button type="button" className="btn-lightgrey">7</button>
           <button type="button" className="btn-lightgrey">8</button>
           <button type="button" className="btn-lightgrey">9</button>
-          <button type="button" className="btn-orange">*</button>
+          <button type="button" className="btn-orange">x</button>
           <button type="button" className="btn-lightgrey">4</button>
           <button type="button" className="btn-lightgrey">5</button>
           <button type="button" className="btn-lightgrey">6</button>
