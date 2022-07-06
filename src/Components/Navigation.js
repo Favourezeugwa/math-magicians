@@ -16,12 +16,12 @@ function Navigation() {
         </li>
         <li>
           <Link to="/calculator">
-            calculator
+            Calculator
           </Link>
         </li>
         <li>
           <Link to="/quote">
-            quote
+            Quote
           </Link>
         </li>
       </ul>
