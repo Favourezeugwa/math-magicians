@@ -54,6 +54,14 @@ $ http://localhost:3001/
 - LinkedIn: [Favour Amarachi Ezeugwa](https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/)
 - Twitter:[@Favour_ezeugwa](https://twitter.com/Favour_ezeugwa)
 
+## Contributor
+
+👤 **Felix Ouma**
+
+| 👤 Name | Github | Twitter | LinkedIn |
+|------|--------|---------|----------|
+|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/)|
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
