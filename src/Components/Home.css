@@ -1,0 +1,34 @@
+.homePage {
+  margin: 40px;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #e1e1e2;
+  padding-bottom: 30px;
+}
+
+h3 {
+  font-weight: 600;
+  color: #e1e1e2;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+p {
+  color: #e1e1e2;
+}
+
+.one,
+.two,
+.three {
+  padding-bottom: 20px;
+}
+
+img {
+  float: right;
+  height: 60%;
+  width: 35%;
+  padding-left: 10px;
+}
