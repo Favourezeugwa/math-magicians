@@ -10,18 +10,25 @@ body {
 
 .calculator-container {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 55%;
+  left: 75%;
   transform: translate(-50%, -50%);
   max-width: 400px;
+}
+
+.calculator-header {
+  color: #e1e1e2;
+  font-size: 30px;
+  margin: 50px;
+  font-weight: 400;
 }
 
 .calculator-screen {
   width: 100%;
   border: 2px solid #000;
   font-size: 35px;
-  padding: 20px;
-  background-color: rgba(110, 114, 119, 0.753);
+  padding: 25px;
+  background-color: #656c745b;
   color: #fff;
   text-align: right;
 }
@@ -37,7 +44,7 @@ body {
 }
 
 button {
-  padding: 15px;
+  padding: 30px;
   font-size: 20px;
   background-color: #e1e1e2;
 }
