@@ -4,15 +4,24 @@
 
 This is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quotes. The aim of this project is to learn how to use React.
 
+> Math-magicians: started of by building the core functionality, which is a calculator that contains a simple UI and is able to perform all math operations. Then created a full functional website for the Math magicians app, consisting of three pages using React Router.
+
+## Overview
+
+### Screenshots
+
+![](./src/Images/home.snip.png)
+![](./src/Images/calculator.snip.png)
+![](./src/Images/quote.snip.png)
+
 ## Live Demo
 
 link to live demo - (coming-soon!)
 
-> Math-magicians: started of by building the core functionality, which is a calculator that contains a simple UI and is able to perform all math operations.
-
 ## Built With
 
 - Create React App (CRA)
+- React Router
 - Gitflow
 
 ## Getting Started
