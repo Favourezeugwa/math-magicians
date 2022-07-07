@@ -16,7 +16,8 @@ This is a Single Page App (SPA) that allows users to make simple calculations an
 
 ## Live Demo
 
-link to live demo - (coming-soon!)
+[link to live demo on Heroku](https://math-magicians-fave.herokuapp.com/)
+[link to live demo on Netlify](https://favour-math-magicians.netlify.app/)
 
 ## Built With
 
