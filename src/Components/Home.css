@@ -10,7 +10,7 @@ h2 {
 }
 
 .getStarted {
-  margin-top: 20px;
+  margin-top: 45px;
 }
 
 h3 {
@@ -31,10 +31,12 @@ p {
   color: #e1e1e2;
 }
 
+.one {
+  padding-bottom: 20px;
+}
 .one,
 .two,
 .three {
-  padding-bottom: 20px;
   border-left: 2px solid #ff8401a9;
   padding-left: 20px;
 }
