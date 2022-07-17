@@ -3,32 +3,48 @@
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 60px;
   font-weight: 600;
-  color: #e1e1e2;
+  color: #ff8401;
   padding-bottom: 30px;
+}
+
+.getStarted {
+  margin-top: 45px;
 }
 
 h3 {
   font-weight: 600;
   color: #e1e1e2;
-  font-size: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 220px;
+  border: 2px solid #ff8401;
+  background-color: #ff8401;
+  font-size: 30px;
   padding-bottom: 10px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 p {
   color: #e1e1e2;
 }
 
+.one {
+  padding-bottom: 20px;
+}
+
 .one,
 .two,
 .three {
-  padding-bottom: 20px;
+  border-left: 2px solid #ff8401a9;
+  padding-left: 20px;
 }
 
 img {
   float: right;
-  height: 60%;
-  width: 35%;
+  height: 100%;
+  width: 50%;
   padding-left: 10px;
 }

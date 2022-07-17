@@ -14,6 +14,7 @@ body {
   left: 75%;
   transform: translate(-50%, -50%);
   max-width: 400px;
+  box-shadow: 0 -1px 4px 2px rgba(122, 122, 122, 0.733);
 }
 
 .calculator-header {

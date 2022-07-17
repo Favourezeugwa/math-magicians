@@ -10,9 +10,9 @@ This is a Single Page App (SPA) that allows users to make simple calculations an
 
 ### Screenshots
 
-![](./src/Images/home.snip.png)
+![](./src/Images/home1.snip.PNG)
 ![](./src/Images/calculator.snip.png)
-![](./src/Images/quote.snip.png)
+![](./src/Images/quote1.snip.PNG)
 
 ## Live Demo
 
@@ -59,9 +59,9 @@ $ http://localhost:3001/
 
 👤 **Felix Ouma**
 
-| 👤 Name | Github | Twitter | LinkedIn |
-|------|--------|---------|----------|
-|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/)|
+| 👤 Name    | Github                                 | Twitter                                           | LinkedIn                                                     |
+| ---------- | -------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| Felix Ouma | [@Felix45](https://github.com/Felix45) | [@Felix_Atonoh](https://twitter.com/Felix_Atonoh) | [LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/) |
 
 ## 🤝 Contributing
 
