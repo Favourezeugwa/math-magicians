@@ -10,7 +10,7 @@ This is a Single Page App (SPA) that allows users to make simple calculations an
 
 ### Screenshots
 
-![](./SRC/Images/home1.snip.PNG)
+![](./src/Images/home1.snip.PNG)
 ![](./src/Images/calculator.snip.png)
 ![](./src/Images/quote1.snip.PNG)
 
