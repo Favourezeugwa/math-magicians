@@ -11,7 +11,7 @@ This is a Single Page App (SPA) that allows users to make simple calculations an
 ### Screenshots
 
 ![](./src/Images/home1.snip.PNG)
-![](./src/Images/Calculator1.snip.PNG)
+![](./src/Images/calculator1.snip.PNG)
 ![](./src/Images/quote1.snip.PNG)
 
 ## Live Demo
