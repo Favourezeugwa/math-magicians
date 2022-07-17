@@ -12,4 +12,10 @@
 
 span {
   color: #ff9523;
+  font-size: 15px;
+}
+
+.quote-icon {
+  color: #ff9523;
+  font-size: 20px;
 }
